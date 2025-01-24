@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+piexif
+python-dotenv
+Pillow
+pillow-avif-plugin
+imageio
+av
+lxml
