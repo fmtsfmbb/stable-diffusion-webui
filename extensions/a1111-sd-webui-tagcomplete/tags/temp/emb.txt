@@ -1,0 +1,4 @@
+badhandv4.pt,"badhandv4",v1
+EasyNegative.safetensors,"easynegative",v1
+EasyNegativeV2.safetensors,"easynegativev2",v1
+ng_deepnegative_v1_75t.pt,"ng_deepnegative_v1_75t",v1
